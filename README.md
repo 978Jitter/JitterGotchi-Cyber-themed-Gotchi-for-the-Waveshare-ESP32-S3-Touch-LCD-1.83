@@ -1,0 +1,2 @@
+# JitterGotchi-Cyber-themed-Gotchi-for-the-Waveshare-ESP32-S3-Touch-LCD-1.83
+Cyber-themed virtual pet &amp; HUD built with LVGL 8.4 for Waveshare ESP32-S3-Touch-LCD-1.83 (240×284 ST7789P, CST816D, QMI8658 IMU, PCF85063 RTC, AXP2101). Styled in matte black, steel &amp; crimson with animated pet moods, sweep-second ring clock, JitterTech icon grid, tilt reticle, Wi-Fi scanner, telemetry &amp; desktop simulator.
